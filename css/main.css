@@ -63,3 +63,11 @@ footer.page-footer{
   background-position: center;
   background-size: cover;
 }
+
+/* REGISTRO*/
+.registro-title{
+  margin-top: 80px;
+}
+.registro-header{
+  height: 400px;
+}
