@@ -71,3 +71,10 @@ footer.page-footer{
 .registro-header{
   height: 400px;
 }
+.social-card {
+
+}
+.social-image img{
+  width: 100px;
+  height: 100px;
+}
